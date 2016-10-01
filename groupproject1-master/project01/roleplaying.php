@@ -1,63 +1,37 @@
-<!doctype html>
+<?php include "inc/head.inc"; ?>
 
-<html>
-       <head>
-	          <meta charset="utf-8">
-			  
-			  <title>Role Playing Video Games</title>
-			  
-		</head>
-
-        <body>
-
-<!-- common header -->		
-		        <header>
-
-			            <h1>Project 1 -- Video Games</h1>
-						
-						
-			    </header>
 
 <!--Navigation -->
-				<nav>
-
 				
-					<ul>
-					
-						<li><a href="index.html">Home</a></li>
-						<li><a href="action.html">Action Video Games</a></li>
-						<li><a href="roleplaying.html">Role Playing Video Games</a></li>
-						<li><a href="simulation.html">Simulation Video Games</a></li>
-
-						
-					</ul>
-		
-				</nav>	
-	
+ <?php include "inc/nav.inc"; ?>
 
 
+    <!-- this class will put article and aside side by side -->
+    <div class="o-grid">
 
 		
 <!--Article -->				
-                <article>
+                <article class="o-grid__cell">
 
 				
 	<!-- From: https://en.wikipedia.org/wiki/Video_game -->
-						 <h2>Role Playing Video Game Characteristics</h2>
+						 <h2 class="c-heading c-heading--xlarge">Role Playing Video Game Characteristics</h2>
 				
 							 <p>Role-playing video games use much of the same terminology, settings and game mechanics as early pen-and-paper role-playing games such as Dungeons & Dragons. Players control a central game character, or multiple game characters, usually called a party, and attain victory by completing a series of quests or reaching the conclusion of a central storyline. Players explore a game world, while solving puzzles and engaging in tactical combat. A key feature of the genre is that characters grow in power and abilities, and characters are typically designed by the player. RPGs rarely challenge a player's physical coordination or reaction time, with the exception of action role-playing games.</p>	
 							 
+
+						<div class="c-card c-card--higher c-card--primary">
+ 						<div class="c-card__content c-card__content--divider">Role-Playing Game. <a class="c-link" href="http://www.blogcdn.com/www.joystiq.com/media/2012/04/suikodenheader-1334261958.jpg"> Source</a></div>
 							 <figure>					 
-						          <img src="images/golem.jpg" alt="Golem Screenshot">
-							      <figcaption>Role-Playing Game. <a href="http://www.blogcdn.com/www.joystiq.com/media/2012/04/suikodenheader-1334261958.jpg"> Source</a></figcaption>
-							 
+						          <img class="o-image" src="images/golem.jpg" alt="Golem Screenshot">
 						     </figure>
-							 
+							</div>
+
 							 <p>Role-playing video games typically rely on a highly developed story and setting, which is divided into a number of quests. Players control one or several characters by issuing commands, which are performed by the character at an effectiveness determined by that character's numeric attributes. Often these attributes increase each time a character gains a level, and a character's level goes up each time the player accumulates a certain amount of experience.</p>	
 
 							 <p>Role-playing video games also typically attempt to offer more complex and dynamic character interaction than what is found in other video game genres. This usually involves additional focus on the artificial intelligence and scripted behavior of computer-controlled non-player characters.</p>	
 							 
-						<h3>Story and setting</h3>
+						<h3 class="c-heading c-heading--large">Story and setting</h3>
 						
 							 <p>The premise of most role-playing games tasks the player with saving the world, or whichever level of society is threatened. There are often twists and turns as the story progresses, such as the surprise appearance of estranged relatives, or enemies who become friends or vice versa. The game world tends to be set in a historical, fantasy or science fiction universe, which allows players to do things they cannot do in real life and helps players suspend their disbelief about the rapid character growth. To a lesser extent, settings closer to the present day or near future are possible.</p>	
 
@@ -67,23 +41,25 @@
 
 							 <p>Characterization of non-player characters in video games is often handled using a dialog tree. Saying the right things to the right non-player characters will elicit useful information for the player, and may even result in other rewards such as items or experience, as well as opening up possible storyline branches. Multiplayer online role-playing games can offer an exception to this contrast by allowing human interaction among multiple players and in some cases enabling a player to perform the role of a gamemaster.</p>
 							 
-						 <h3>Exploration and quests</h3>		 
+						 <h3 class="c-heading c-heading--large">Exploration and quests</h3>		 
 							 
 							 <p>Exploring the world is an important aspect of all RPGs. Players will walk through, talking to non-player characters, picking up objects, and avoiding traps. Some games such as NetHack, Diablo, and the FATE series randomize the structure of individual levels, increasing the game's variety and replayability. Role-playing games where players complete quests by exploring randomly generated dungeons and include the game mechanic "permadeath" are called roguelikes, named after the 1980 video game Rogue.</p>	
 							 
 							 <p>The game's story is often mapped onto exploration, where each chapter of the story is mapped onto a different location. RPGs usually allow players to return to previously visited locations. Usually, there is nothing left to do there, although some locations change throughout the story and offer the player new things to do in response. Players must acquire enough power to overcome a major challenge in order to progress to the next area, and this structure can be compared to the boss characters at the end of levels in action games.</p>	
 
-						<h3>Items and inventory</h3>
+						<h3 class="c-heading c-heading--large">Items and inventory</h3>
 						
 							 <p>Players can find loot (such as clothing, weapons, and armor) throughout the game world and collect it. Players can trade items for currency and better equipment. Trade takes place while interacting with certain friendly non-player characters, such as shopkeepers, and often uses a specialized trading screen. Purchased items go into the player's inventory. Some games turn inventory management into a logistical challenge by limiting the size of the player's inventory, thus forcing the player to decide what they must carry at the time. This can be done by limiting the maximum weight that a player can carry, by employing a system of arranging items in a virtual space, or by simply limiting the number of items that can be held.</p>
 
-						<h3>Character actions and abilities</h3>
+						<h3 class="c-heading c-heading--large">Character actions and abilities</h3>
 						
+
+					<div class="c-card c-card--higher c-card--primary">
+ 					<div class="c-card__content c-card__content--divider">Scourge Character Information. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
 							 <figure>					 
-						          <img src="images/scourge.png" alt="Scourge character information">
-							      <figcaption>Scourge Character Information. <a href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></figcaption>
-							 
-						     </figure>					
+						          <img class="o-image" src="images/scourge.png" alt="Scourge character information">
+						     </figure>	
+						    </div>		
 						
 							 <p>Most of the actions in an RPG are performed indirectly, with the player selecting an action and the character performing it by their own accord. Success at that action depends on the character's numeric attributes. Role-playing video games often simulate die-rolling mechanics from non-electronic role-playing games to determine success or failure. As a character's attributes improve, their chances of succeeding at a particular action will increase.</p>
 	
@@ -91,18 +67,20 @@
 			    </article>
 				        
 <!-- Aside -->
-                <aside>
+                <aside class="o-grid__cell">
 				
 							<!--From: https://en.wikipedia.org/wiki/World_of_Warcraft  -->
 				             <p><em>World of Warcraft</em></p>
 					   
 							 <p>World of Warcraft (WoW) is a massively multiplayer online role-playing game (MMORPG) released in 2004 by Blizzard Entertainment. It is the fourth released game set in the fantasy Warcraft universe, which was first introduced by Warcraft: Orcs & Humans in 1994. World of Warcraft takes place within the Warcraft world of Azeroth, approximately four years after the events at the conclusion of Blizzard's previous Warcraft release, Warcraft III: The Frozen Throne. Blizzard Entertainment announced World of Warcraft on September 2, 2001. The game was released on November 23, 2004, on the 10th anniversary of the Warcraft franchise.</p>	
 
+
+					<div class="c-card c-card--higher c-card--primary">
+ 					<div class="c-card__content c-card__content--divider">World of Warcraft. <a class="c-link" href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></div>
 							 <figure>					 
 						          <img src="images/worldOfWarCraft.jpg" alt="World of War Craft">
-							      <figcaption>World of Warcraft. <a href="https://en.wikipedia.org/wiki/File:Scourge_character_information.png"> Source</a></figcaption>
-							 
-						     </figure>							 
+						     </figure>			
+						    </div>				 
 							 
 							 
 							 <p>World of Warcraft is set in the same universe as the Warcraft series of real-time strategy games, and has a similar art direction. World of Warcraft contains elements from fantasy, steampunk, and science fiction: such as gryphons, dragons, and elves; steam-powered automata; zombies, werewolves, and other horror monsters; as well as time travel, spaceships, and alien worlds.</p>	
@@ -115,32 +93,22 @@
 							 
                 </aside>
 
+                            </div> <!--blaze css grid-->
+
+
 <!--Topical footer -->				
                 <footer>
 				
-                        <h2>Works Cited</h2>
+                        <h2 class="c-heading c-heading--xlarge">Works Cited</h2>
 	
 	
-						<ul>
-							<li>"Role-playing video game". Wikipedia. 26 September 2016. Web. 26 September 2016. <a href="https://en.wikipedia.org/wiki/Role-playing_video_game">https://en.wikipedia.org/wiki/Role-playing_video_game</a>.</li>
-							<li>"World of Warcraft" Wikipedia. 17 September 2016. Web. 26 September 2016. <a href="https://en.wikipedia.org/wiki/World_of_Warcraft">https://en.wikipedia.org/wiki/World_of_Warcraft</a>.</li>
+						<ul class="c-list">
+							<li class="c-list__item">"Role-playing video game". Wikipedia. 26 September 2016. Web. 26 September 2016. <a class="c-link" href="https://en.wikipedia.org/wiki/Role-playing_video_game">https://en.wikipedia.org/wiki/Role-playing_video_game</a>.</li>
+							<li class="c-list__item">"World of Warcraft" Wikipedia. 17 September 2016. Web. 26 September 2016. <a class="c-link" href="https://en.wikipedia.org/wiki/World_of_Warcraft">https://en.wikipedia.org/wiki/World_of_Warcraft</a>.</li>
 						</ul>
 						
 						
                 </footer>
 				
-<!--Common footer -->				
-				<footer>
-			
-						<p>CSC 174 Advance Front End Development, Project One</p>
-						
-						<p>One Man Army Team members: Jack Zhang, Isaac Mosebrook, Tara Anacker, Stephanie Pollocks, Robert Gelfond </p>
-						
-						<p>For more information about the team, please see the <a href="#">Colophon</a></p>
 				
-				
-			</footer>
-
-		</body>
-
-</html>	
+ <?php include "inc/footer.inc"; ?>
