@@ -1,0 +1,23 @@
+.c-heading {
+	color: #00ff00;
+}
+
+.o-image {
+	opacity: 1;
+}
+
+.o-grid {
+	border: 2px solid #42f4d7;
+	color: #5920b2;
+	background-color: white;
+	opacity: 0.8;
+}
+
+body {
+	background-image: url("../images/xbox.jpg");;
+}
+
+footer {
+	background-color: aquamarine;
+}
+

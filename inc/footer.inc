@@ -1,14 +1,12 @@
 
 <!--Common footer -->				
-				<footer>
+			<footer>
 			
-						<p>CSC 174 Advance Front End Development, Project One</p>
+					<p>CSC 174 Advance Front End Development, Project One</p>
 						
-						<p>One Man Army Team members: Jack Zhang, Isaac Mosebrook, Tara Anacker, Stephanie Pollocks, Robert Gelfond</p>
+					<p>One Man Army Team members: Jack Zhang, Isaac Mosebrook, Tara Anacker, Stephanie Pollocks, Robert Gelfond</p>
 						
-						<p>For more information about the team, please see the <a class="c-link" href="colophon.php">Colophon</a></p>
-				
-				
+					<p>For more information about the team, please see the <a class="c-link" href="colophon.php">Colophon</a></p>
 			</footer>
 
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

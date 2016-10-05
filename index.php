@@ -1,6 +1,5 @@
 <?php include "inc/head.inc"; ?>
 
-
 <!--Navigation -->
 				
  <?php include "inc/nav.inc"; ?>
@@ -12,8 +11,7 @@
     <div class="o-grid">
 <!--Article -->				
                 <article class="o-grid__cell">
-
-				
+                
 	<!-- From: https://en.wikipedia.org/wiki/Video_game -->
 						 <h2 class="c-heading c-heading--xlarge">About Video Games</h2>
 				
@@ -93,7 +91,7 @@
                 <aside class="o-grid__cell">
 				
 							<!--From: http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/  -->
-				             <p><em>Can playing video games make you smarter?</em></p>
+				             <h2 class="c-heading c-heading--xlarge">Can playing video games make you smarter?</h2>
 					   
 							 <p>Taking out terrorists or shooting up zombies in video games could be more than just an adrenaline rush. It may actually make you smarter.</p>
 							 
@@ -106,8 +104,45 @@
 							 <p>Ohio State professor Brad J. Bushman, who has done extensive research into the effects of violent video games on players, called it a "cool paper" but questioned whether the violence was necessary to produce learning.</p>
 							 
 							 <p>"I believe the findings. What I fear, however, is that people will use such findings to justify playing violent action games," Bushman said. "I would love to see studies test three types of video games: (1) violent action, (2) nonviolent action, and (3) non-action. Action and violence are confounded in many video games. My hypothesis is that it is the action that produces the learning rather than the violence. The key is to develop exciting, action-packed nonviolent games."</p>
-	
-	
+
+							 <h3 class="c-heading c-heading--xlarge">Upcoming Video Games</h3>
+
+							 <figure>
+							 <img class="o-image" src="images/iw.jpg" alt="Infinite Warfare">
+							 </figure>
+
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/irIkbTen53k" frameborder="0" allowfullscreen></iframe>
+
+							 <figure>
+							 <img class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
+							 </figure>
+
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-eMi1xJ2dM" frameborder="0" allowfullscreen></iframe>
+
+							 <figure>
+							 <img class="o-image" src="images/bf1.jpg" alt="Battlefield One">
+							 </figure>
+
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7nRTF2SowQ" frameborder="0" allowfullscreen></iframe>
+
+							 <figure>
+							 <img class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
+							 </figure>
+
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/fTSUgXkfooA" frameborder="0" allowfullscreen></iframe>
+
+							 <figure>
+							 <img class="o-image" src="images/t2.jpg" alt="Titanfall 2">
+							 </figure>
+
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ISYN1AshZY" frameborder="0" allowfullscreen></iframe>
+
+							 <figure>
+							 <img class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
+							 </figure>
+
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh9x4NqW0Dw" frameborder="0" allowfullscreen></iframe>
+							 
                 </aside>
 
             </div> <!--blaze css grid-->
@@ -117,15 +152,19 @@
 				
                         <h2 class="c-heading c-heading--xlarge">Works Cited</h2>
 	
-	
 						<ul class="c-list">
 							<li class="c-list__item">"Video Game". Wikipedia. 20 September 2016. Web. 26 September 2016. <a class="c-link" href="https://en.wikipedia.org/wiki/Video_game">https://en.wikipedia.org/wiki/Video_game</a>.</li>
-							<li class="c-list__item">"Can Playing Video Games Make you Smarter?" CBS News. 12 November 2014. Web. 26 September 2016. <a class="c-link" href="http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/ ">http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/ </a>.</li>
+							<li class="c-list__item">"Can Playing Video Games Make you Smarter?" CBS News. 12 November 2014. Web. 26 September 2016. <a class="c-link" href="http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/">http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/</a>.</li>
 						</ul>
-						
+
+						https://www.youtube.com/watch?v=irIkbTen53k
+						https://www.youtube.com/watch?v=l-eMi1xJ2dM
+						https://www.youtube.com/watch?v=c7nRTF2SowQ
+						https://www.youtube.com/watch?v=fTSUgXkfooA
+						https://www.youtube.com/watch?v=2ISYN1AshZY
+						https://www.youtube.com/watch?v=hh9x4NqW0Dw
+
 						
                 </footer>
 				
-
-
 <?php include "inc/footer.inc"; ?>
