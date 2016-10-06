@@ -4,6 +4,10 @@
 
 .o-image {
 	opacity: 1;
+	height: auto; 
+    width: auto; 
+    max-width: 50%; 
+    max-height: 50%;
 }
 
 .o-grid {
@@ -14,10 +18,23 @@
 }
 
 body {
-	background-image: url("../images/xbox.jpg");;
+	background-image: url("../images/xbox.jpg");
 }
 
 footer {
 	background-color: aquamarine;
+	word-wrap: break-word;
 }
 
+@media (max-width: 600px) {
+  iframe{
+  	max-width: 200px;
+	height: auto; 
+    width: auto; 
+    max-width: 50%; 
+    max-height: 50%;
+  }
+  .o-image{
+  	max-width: 200px;
+  }
+}

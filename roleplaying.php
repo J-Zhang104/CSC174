@@ -7,7 +7,7 @@
 
 
     <!-- this class will put article and aside side by side -->
-    <div class="o-grid">
+    <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 
 		
 <!--Article -->				
@@ -91,6 +91,18 @@
 
 							 <p>Much of World of Warcraft play involves the completion of quests. These quests, also called "tasks" or "missions", are usually available from NPCs. Quests usually reward the player with some combination of experience points, items, and in-game money. Quests allow characters to gain access to new skills and abilities, and explore new areas. It is through quests that much of the game's story is told, both through the quest's text and through scripted NPC actions. Quests are linked by a common theme, with each consecutive quest triggered by the completion of the previous, forming a quest chain. Quests commonly involve killing a number of creatures, gathering a certain number of resources, finding a difficult to locate object, speaking to various NPCs, visiting specific locations, interacting with objects in the world, or delivering an item from one place to another to acquire experience and treasures.</p>
 							 
+							  <p><em>Baldur's Gate</em></p>
+							 
+							 <p>Baldur's Gate takes place in the fictional world of Ed Greenwood's Forgotten Realms setting. The mechanics of the gameplay were coded to conform to the Advanced Dungeons & Dragons 2nd edition role-playing rules, though various elements from the ruleset were modified to allow the game to be executed in pausable real-time mode. Hence, although each character is in constant action, the game allows the player to pause the activity at any time, or set the game to automatically pause at preset points in combat. The game features a top-down isometric perspective and real-time third-person combat system on pre-rendered backgrounds. It is also possible to script combat behavior for characters, such that they are able to act and respond to changing situations without explicit guidance from the player.</p>
+							 
+							 <p>Character creation involves selecting various characteristics, such as class, race, alignment, abilities, and skills. During the game, past and present events are related to the player through dialogue, written text, journal entries, or cut scenes. Dialogue is initiated when the player clicks on computer controlled characters. This generates written and sometimes spoken dialogue with a short list of responses from which the player can select. Such interactions can lead to quests or missions.</p>
+							 
+							 <p>The game is separated into seven chapters interspersed with segments of spoken dialogue. Free exploration of the world map is allowed in every chapter, though some areas are not unlocked until the player's character (PC) advances to a certain point in the game. The PC begins as a weak character, poorly equipped and without allies. As the game progresses, the player discovers new and more powerful equipment and magic, and can recruit a party of up to six characters, including the PC. Experience points are gained through completing quests and killing monsters; at predetermined point thresholds the characters' levels increase, resulting in improved abilities and skills. Characters are limited to a maximum amount of 89,000 experience points. The game includes over one hundred side quests.</p>
+							 
+							 <p>The western shore of Faerûn along the Sea of Swords is called the Sword Coast, containing a multitude of ecologies and terrains, including mountains, forests, plains, cities, and ruins. The region encompassed by the game is bordered to the south by the Cloud Peaks, the east by the Wood of Sharp Teeth, the west by the Sea of Swords, and the north by Baldur's Gate, which is the largest and most affluent city in the region. The characters travel the countryside, exploring the various towns, dungeons, mines, forests, castle ruins, and Baldur's Gate itself, confronting the clandestine plots of organizations such as the Zhentarim, the Red Wizards of Thay, The Iron Throne, the Flaming Fist, The Chill, The Black Talons, and the Harpers, investigating a conspiracy involving the groups, and finding out the main character's own ancestry and history.</p>
+
+							 <p>At the beginning of the game, the Sword Coast has entered a difficult time: iron production has virtually halted, with metal products quickly 'rotting', tools and weapons breaking easily as a result (except magical weapons), while bandits scour the countryside seeking iron over any other treasure.[4] Before the game's story begins, the protagonist and friend Imoen had grown up together in Candlekeep,[8] an ancient fortress-turned-library in the rural Sword Coast region south of Baldur's Gate, under the tutelage of their guardian, the mage Gorion, both of whom were brought in as orphans. Gorion, sensing trouble, decides to leave Candlekeep with the protagonist (known as Gorion's Ward), explaining nothing of importance other than to move on; during this time, Gorion's Ward finds himself attacked by a couple of men seeking his death.</p>
+
                 </aside>
 
                             </div> <!--blaze css grid-->

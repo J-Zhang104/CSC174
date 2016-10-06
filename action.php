@@ -5,7 +5,7 @@
  <?php include "inc/nav.inc"; ?>
 
     <!-- this class will put article and aside side by side -->
-    <div class="o-grid">
+    <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 		
 <!--Article -->				
                 <article class="o-grid__cell">

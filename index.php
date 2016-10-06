@@ -8,7 +8,7 @@
 
 
     <!-- this class will put article and aside side by side -->
-    <div class="o-grid">
+    <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 <!--Article -->				
                 <article class="o-grid__cell">
                 
@@ -108,41 +108,40 @@
 							 <h3 class="c-heading c-heading--xlarge">Upcoming Video Games</h3>
 
 							 <figure>
-							 <img class="o-image" src="images/iw.jpg" alt="Infinite Warfare">
+							 <img class="o-image" class="o-image" src="images/iw.jpg" alt="Infinite Warfare">
 							 </figure>
 
 							 <iframe width="560" height="315" src="https://www.youtube.com/embed/irIkbTen53k" frameborder="0" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
+							 <img class="o-image" class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
 							 </figure>
 
 							 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-eMi1xJ2dM" frameborder="0" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" src="images/bf1.jpg" alt="Battlefield One">
+							 <img class="o-image" class="o-image" src="images/bf1.jpg" alt="Battlefield One">
 							 </figure>
 
 							 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7nRTF2SowQ" frameborder="0" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
+							 <img class="o-image" class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
 							 </figure>
 
 							 <iframe width="560" height="315" src="https://www.youtube.com/embed/fTSUgXkfooA" frameborder="0" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" src="images/t2.jpg" alt="Titanfall 2">
+							 <img class="o-image" class="o-image" src="images/t2.jpg" alt="Titanfall 2">
 							 </figure>
 
 							 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ISYN1AshZY" frameborder="0" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
+							 <img class="o-image" class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
 							 </figure>
 
 							 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh9x4NqW0Dw" frameborder="0" allowfullscreen></iframe>
-							 
                 </aside>
 
             </div> <!--blaze css grid-->
@@ -155,16 +154,16 @@
 						<ul class="c-list">
 							<li class="c-list__item">"Video Game". Wikipedia. 20 September 2016. Web. 26 September 2016. <a class="c-link" href="https://en.wikipedia.org/wiki/Video_game">https://en.wikipedia.org/wiki/Video_game</a>.</li>
 							<li class="c-list__item">"Can Playing Video Games Make you Smarter?" CBS News. 12 November 2014. Web. 26 September 2016. <a class="c-link" href="http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/">http://www.cbsnews.com/news/playing-video-games-could-make-you-smarter/</a>.</li>
-						</ul>
-
-						https://www.youtube.com/watch?v=irIkbTen53k
-						https://www.youtube.com/watch?v=l-eMi1xJ2dM
-						https://www.youtube.com/watch?v=c7nRTF2SowQ
-						https://www.youtube.com/watch?v=fTSUgXkfooA
-						https://www.youtube.com/watch?v=2ISYN1AshZY
-						https://www.youtube.com/watch?v=hh9x4NqW0Dw
-
 						
+
+							<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=irIkbTen53k">https://www.youtube.com/watch?v=irIkbTen53k</a></li>
+							<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=l-eMi1xJ2dM">https://www.youtube.com/watch?v=l-eMi1xJ2dM</a></li>
+							<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=c7nRTF2SowQ">https://www.youtube.com/watch?v=c7nRTF2SowQ</a></li>
+							<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=fTSUgXkfooA">https://www.youtube.com/watch?v=fTSUgXkfooA</a></li>
+							<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=2ISYN1AshZY">https://www.youtube.com/watch?v=2ISYN1AshZY</a></li>
+							<li class="c-list__item"><a class="c-link" href="https://www.youtube.com/watch?v=hh9x4NqW0Dw">https://www.youtube.com/watch?v=hh9x4NqW0Dw</a></li>
+
+						</ul>
                 </footer>
 				
 <?php include "inc/footer.inc"; ?>

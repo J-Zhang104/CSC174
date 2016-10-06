@@ -7,7 +7,7 @@
 
 		
     <!-- this class will put article and aside side by side -->
-    <div class="o-grid">
+    <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
 
 <!--Article -->				
                 <article class="o-grid__cell">
@@ -88,6 +88,20 @@
 
 							 <p>Take On Helicopters is primarily a civil aviation video game focused on rotary-wing aircraft, featuring three different classes of helicopters: light, medium, and heavy. In addition to the career, the game includes challenges, time trials, training, a mission editor, free flight, and multiplayer.</p>	
 							 
+							 
+							 <p><em>SimCity</em></p>
+							 
+							 <p>SimCity is a city-building and urban planning simulation massively multiplayer online game developed by Maxis, a subsidiary of Electronic Arts. Released for Microsoft Windows in early March 2013, it is the first major installment in the SimCity series since the release of SimCity 4 a decade prior. An OS X version was released on August 29, 2013.</p>
+							 
+							 <p>The game is considered to be a reboot of the SimCity series. Players can create a settlement that can grow into a city by zoning land for residential, commercial, or industrial development, as well as building and maintaining public services, transport and utilities. SimCity uses a new engine called GlassBox, allowing for more detailed simulation than previous games. </p>
+							 
+							 <p>Along with many of the cosmetic changes (such as up-to-date 3D graphics), SimCity uses the new GlassBox engine. "We try to build what you would expect to see, and that's the game," explains system architect Andrew Willmott, meaning that visual effects such as traffic, economic troubles, and pollution will be more obvious. Two other new features are a multiplayer component and finite resources.</p>
+							 
+							 <p>Cities in a region are connected to each other via predefined regional networks such as highways, railways, and waterways. Elements such as traffic and air pollution are visible flowing between cities. Cities can trade resources or share public services with their neighbors like garbage collection or health care. Cities can also pool their collective wealth and resources to build a "great work" to provide benefits for the entire region like a massive solar power plant or an international airport. The larger the region, the higher is the number of cities and great works that can be built.</p>
+							 
+							 <p>Modules in SimCity are attachable structures that can add functionality to existing user-placeable buildings. One example is the extra garage for fire stations, which can provide additional fire trucks for increased protection coverage Another example is the Department of Safety for the City Hall, which unlocks more advanced medical, police and fire department buildings.</P>
+							 
+							 <p>The user interface, which was inspired by Google Maps and infographics, was designed to convey information to the player more clearly than in previous SimCity games. Animations and color-coded visual cues that represent how efficiently a city functions are only presented when needed at any given moment. For instance, opening up the water tower instantly changes the landscape to a clear world where the density of water is recognizable. Or clicking on the sewage tab will immediately show how the waste of the citizens is flowing, and where the system is over capacity. Some of the other visualized data include air pollution, power distribution, police coverage, and zones.</p>
                 </aside>
 
             </div> <!--blaze css grid-->

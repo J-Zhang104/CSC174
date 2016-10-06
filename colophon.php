@@ -2,14 +2,16 @@
 
 <?php include "inc/nav.inc"; ?>
 
-<div class="u-center-block ">
-<div class="u-center-block__content u-center-block__content--horizontal">
+<div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
+
+<div class="u-center-block">
+
+
 <h1 class="c-heading c-heading--large">One Man Army Team Members: </h1>
 	<p>Jack Zhang - CSS</p>
-	<p>Isaac Mosebrook - Framework</p>
+	<p>Isaac Mosebrook - Framework and Foundation</p>
 	<p>Tara Anacker - Content Manager</p>
 	<p>Stephanie Pollocks - Javascript</p>
-	<p>Robert Gelfond - ??</p>
 
 	<h1 class="c-heading c-heading--large">Technology Used:</h1>
 	<p>Foundation - HTML Boilerplate</p>
@@ -19,6 +21,7 @@
 	<h1 class="c-heading c-heading--large">Content From:</h1>
 	<p>Wikipedia (specific links on content)</p>
 
+</div>
+</div>
 
-</div>
-</div>
+<?php include "inc/footer.inc"; ?>
