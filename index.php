@@ -6,6 +6,16 @@
 
 <!--Picture slider goes here-->		
 
+				<div class="fotorama" data-autoplay="2000">
+				<img src="sliderImages/image1.png">
+				<img src="sliderImages/image2.png">
+				<img src="sliderImages/image3.png">
+				<img src="sliderImages/image4.png">
+				<img src="sliderImages/image5.png">
+				<img src="sliderImages/image6.png">
+				<img src="sliderImages/image7.png">
+				<img src="sliderImages/image8.png">
+				</div>
 
     <!-- this class will put article and aside side by side -->
     <div class="o-grid o-grid--small-full o-grid--medium-full o-grid--large-full">
