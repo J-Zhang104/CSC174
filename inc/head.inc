@@ -9,7 +9,7 @@
 
         <link rel="stylesheet" href="css/normalize.min.css">
         <link rel="stylesheet" href="css/main.css">
-        <link rel="stylesheet" href="css/styles.css">
+        
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
         <link  href="http://cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
@@ -20,6 +20,9 @@
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/blazecss/latest/blaze.animations.min.css">
 
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
+        <link rel="stylesheet" href="css/styles.css">
+
     </head>
     <body class="o-container o-container--large">
         <!--[if lt IE 8]>
@@ -28,5 +31,5 @@
 
         <!-- common header -->      
     <header>
-        <h1 class="c-heading c-heading--super">Project 1 -- Video Games</h1>                               
+        <h1 class="c-heading super c-heading--super">Project 1 -- Video Games</h1>                               
     </header>
