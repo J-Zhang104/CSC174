@@ -1,20 +1,24 @@
 .c-heading {
 	color: #00ff00;
+  font-family: Georgia, Comic, serif;
+  font-style: oblique;
 }
 
 .o-image {
-	opacity: 1;
-	height: auto; 
-    width: auto; 
-    max-width: 50%; 
-    max-height: 50%;
+	opacity: 1; 
+  display: block;
+  margin: auto;
+  padding: 20px;
+  width: 80%;
 }
 
 .o-grid {
-	border: 2px solid #42f4d7;
-	color: #5920b2;
+	border: 2px groove #42f4d7;
+  border-radius: 15px 50px 30px;
+  padding: 10px;
 	background-color: white;
 	opacity: 0.8;
+  color: black;
 }
 
 body {
@@ -22,19 +26,17 @@ body {
 }
 
 footer {
-	background-color: aquamarine;
+	background-color: silver;
 	word-wrap: break-word;
+  color: black;
+  padding: 10px;
 }
 
 @media (max-width: 600px) {
   iframe{
   	max-width: 200px;
-	height: auto; 
+	  height: auto; 
     width: auto; 
     max-width: 50%; 
     max-height: 50%;
   }
-  .o-image{
-  	max-width: 200px;
-  }
-}
