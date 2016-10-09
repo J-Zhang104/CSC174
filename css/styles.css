@@ -5,7 +5,7 @@
 }
 
 .super {
-  color: orange;
+  color: #cc32d1;
 }
 
 .o-image {
@@ -18,7 +18,7 @@
 
 .o-grid {
 	border: 2px groove #42f4d7;
-  border-radius: 15px 50px 30px;
+  border-radius: 15px;
   padding: 10px;
 	background-color: white;
 	opacity: 0.8;
@@ -34,12 +34,14 @@ body {
 	background-image: url("../images/xbox.jpg");
 }
 
-footer {
+.bottom, footer {
 	background-color: silver;
 	word-wrap: break-word;
   color: black;
   padding: 10px;
   margin: 20px;
+  border: 1px azure solid;
+  border-radius: 21px 29px 24px 23px;
 }
 
 @media (max-width: 600px) {
