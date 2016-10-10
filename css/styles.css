@@ -53,5 +53,6 @@ body {
     max-height: 50%;
   }
 }
+.c-link.current {color: #00ff00;}
 
 .current { color: #00ff00; }
