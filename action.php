@@ -65,7 +65,7 @@
 							 
 							  <div class="c-card c-card--higher c-card--primary">
 							 <div class="c-card__content c-card__content--divider">
-							 	Call of Duty Black Ops II <a class="c-link" class="c-link" href="http://getintopc.com/games/shooting-games/call-of-duty-black-ops-2-download-free-repack-single-link/"> Source</a></div>
+							 	Call of Duty Black Ops II <a class="c-link" href="http://getintopc.com/games/shooting-games/call-of-duty-black-ops-2-download-free-repack-single-link/"> Source</a></div>
 							 <figure>					 
 						          <img class="o-image" src="images/callOfDutyBlackOpsPic.jpg" alt="Call Of Duty Image">
 						     </figure>	
@@ -84,7 +84,7 @@
 	<h3 class="c-heading c-heading--large">Call of Duty: Black Ops III</h3>
 
 	 <div class="c-card c-card--higher c-card--primary">
-	<div class="c-card__content c-card__content--divider"> Spectre <a class="c-link"  class="c-link" href="http://vignette3.wikia.nocookie.net/callofduty/images/9/93/Spectre_menu_icon_BO3.png/revision/latest?cb=20160205173627"> Source</a></div>
+	<div class="c-card__content c-card__content--divider"> Spectre <a class="c-link"  href="http://vignette3.wikia.nocookie.net/callofduty/images/9/93/Spectre_menu_icon_BO3.png/revision/latest?cb=20160205173627"> Source</a></div>
 	<figure>
 		<img class="o-image" src="images/spectre.png" alt="Spectre">
 	</figure>

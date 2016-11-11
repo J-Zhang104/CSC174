@@ -12,8 +12,6 @@
 	opacity: 1; 
   display: block;
   margin: auto;
-  padding: 20px;
-  width: 80%;
 }
 
 .o-grid {
@@ -46,11 +44,8 @@ body {
 
 @media (max-width: 600px) {
   iframe{
-  	max-width: 200px;
-	  height: auto; 
     width: auto; 
-    max-width: 50%; 
-    max-height: 50%;
+    max-width: 90%; 
   }
 }
 .c-link.current {color: #00ff00;}

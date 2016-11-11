@@ -7,14 +7,14 @@
 <!--Picture slider goes here-->		
 
 				<div class="fotorama" data-autoplay="2000">
-				<img src="sliderImages/image1.png">
-				<img src="sliderImages/image2.png">
-				<img src="sliderImages/image3.png">
-				<img src="sliderImages/image4.png">
-				<img src="sliderImages/image5.png">
-				<img src="sliderImages/image6.png">
-				<img src="sliderImages/image7.png">
-				<img src="sliderImages/image8.png">
+				<img src="sliderImages/image1.png" alt="video game 1">
+				<img src="sliderImages/image2.png" alt="video game 2">
+				<img src="sliderImages/image3.png" alt="video game 3">
+				<img src="sliderImages/image4.png" alt="video game 4">
+				<img src="sliderImages/image5.png" alt="video game 5">
+				<img src="sliderImages/image6.png" alt="video game 6">
+				<img src="sliderImages/image7.png" alt="video game 7">
+				<img src="sliderImages/image8.png" alt="video game 8">
 				</div>
 
     <!-- this class will put article and aside side by side -->
@@ -84,7 +84,7 @@
 						 <h2 class="c-heading c-heading--xlarge">Video Game Programming</h2>	
 							
 						      <div class="c-card c-card--higher c-card--primary">
-  								<div class="c-card__content c-card__content--divider">Example of Programming Code. <a class="c-link" href="http://throwingdigitalsheep.com/video-game-development-hard-with-sidenote-easy/"> Source</a></a></div>
+  								<div class="c-card__content c-card__content--divider">Example of Programming Code. <a class="c-link" href="http://throwingdigitalsheep.com/video-game-development-hard-with-sidenote-easy/"> Source</a></div>
 							 <figure>					 
 						         <img class="o-image" src="images/programming.png" alt="programming code">
 						         </figure>
@@ -118,40 +118,40 @@
 							 <h3 class="c-heading c-heading--xlarge">Upcoming Video Games</h3>
 
 							 <figure>
-							 <img class="o-image" class="o-image" src="images/iw.jpg" alt="Infinite Warfare">
+							 <img class="o-image" src="images/iw.jpg" alt="Infinite Warfare">
 							 </figure>
 
-							 <iframe width="560" height="315" src="https://www.youtube.com/embed/irIkbTen53k" frameborder="0" allowfullscreen></iframe>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/irIkbTen53k" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
+							 <img class="o-image" src="images/mwr.jpg" alt="Modern Warfare Remastered">
 							 </figure>
 
-							 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-eMi1xJ2dM" frameborder="0" allowfullscreen></iframe>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/l-eMi1xJ2dM" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" class="o-image" src="images/bf1.jpg" alt="Battlefield One">
+							 <img class="o-image" src="images/bf1.jpg" alt="Battlefield One">
 							 </figure>
 
-							 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7nRTF2SowQ" frameborder="0" allowfullscreen></iframe>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/c7nRTF2SowQ" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
+							 <img class="o-image" src="images/fh3.jpg" alt="Forza Horizon 3">
 							 </figure>
 
-							 <iframe width="560" height="315" src="https://www.youtube.com/embed/fTSUgXkfooA" frameborder="0" allowfullscreen></iframe>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/fTSUgXkfooA" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" class="o-image" src="images/t2.jpg" alt="Titanfall 2">
+							 <img class="o-image" src="images/t2.jpg" alt="Titanfall 2">
 							 </figure>
 
-							 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ISYN1AshZY" frameborder="0" allowfullscreen></iframe>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ISYN1AshZY" allowfullscreen></iframe>
 
 							 <figure>
-							 <img class="o-image" class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
+							 <img class="o-image" src="images/wd2.jpg" alt="Watch Dogs 2">
 							 </figure>
 
-							 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh9x4NqW0Dw" frameborder="0" allowfullscreen></iframe>
+							 <iframe width="560" height="315" src="https://www.youtube.com/embed/hh9x4NqW0Dw" allowfullscreen></iframe>
                 </aside>
 
             </div> <!--blaze css grid-->
